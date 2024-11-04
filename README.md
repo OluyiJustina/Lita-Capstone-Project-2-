@@ -37,6 +37,27 @@ This project will focus on Analysing subscription pattern data from **Q1 2022 to
 1. **Data Analysis**
 Some Basic lines of Code - excel functions, SQL queries and Some DAX expression used during analysis Excel functions
 
+Excel PIVOT TABLES and CALCULATIONS
+
+![sub pivot 1](https://github.com/user-attachments/assets/84e41da7-17d1-4ca6-a55b-6331086a2831)
+
+![sub pivot 2](https://github.com/user-attachments/assets/56fbd119-18ae-40ee-ac91-1e6280bf43c7)
+
+![sub pivot 3](https://github.com/user-attachments/assets/f96fdcb0-deaf-4066-8bba-91106aa1ae76)
+
+![sub pivot 4](https://github.com/user-attachments/assets/cffbd812-bbe9-4cac-b17f-59ed603d7ca1)
+
+![sub pivot 5](https://github.com/user-attachments/assets/0a9e484c-de26-4815-bb48-90f3d6e75686)
+
+![sub pivot 6](https://github.com/user-attachments/assets/acdc5652-9a0d-4753-abcc-e4712cbdfa6d)
+
+![sub pivot 7](https://github.com/user-attachments/assets/6bebd28d-744f-4682-a502-ff578bdeccc1)
+
+![sub pivot 8](https://github.com/user-attachments/assets/83cb5f39-7e49-421e-9bb9-d95653031307)
+
+
+
+
 **SQL QUERIES**
  
   ~~~
