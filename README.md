@@ -26,7 +26,7 @@ This project will focus on Analysing subscription pattern data from **Q1 2022 to
 4. **Data Cleaning and formatting**
 5. **Data Ananlysis:** Apply data vitualisation techniques using analysis tools such as (Excel and Power BI)
 6. **Data Querying:** querying data to extract key insights using SQL (Structutred Query Language) with the aid of SQL Server.
-7. **Findings and Recommendation:** a pdf file containing recommendations documentation
+7. **Findings and Recommendation**
   
 ### Expected Outcomes:
 1. A comprehensive susbscription pattern analysis report highlighting trends and opputunities.
@@ -174,3 +174,20 @@ ELSE 0 END)AS cancelled_subs
 FROM
 [dbo].[LITA Capstone SUBSRIPTION DATA];
 ~~~
+**Power BI Virtualization**
+
+### Recommendations
+After a thorough data analysis of Subscription data, here are some recommendations:
+
+- There were no active subscribers in the Eastern region, the company might want to find out every subscribers sunddenly decided to deactivate their service.
+- Likewise, the company could increase its market strategies for Basic subscription type, since it contributed larger percent of the overall Revenue.
+- The company could also identify gaps in product offering. Like for the last quarter of 2023, **Premium** recorded no active subscriber.
+
+### Timeline:
+Data analysis:
+Findings and recommendations:
+Report and presentation preparation:
+
+
+### Project Team:
+**Data Analyst:** Ikupoluyi Justina
