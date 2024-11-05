@@ -39,23 +39,25 @@ Some Basic lines of Code - excel functions, SQL queries and Some DAX expression 
 
 Excel PIVOT TABLES and CALCULATIONS
 
-![sub pivot 1](https://github.com/user-attachments/assets/84e41da7-17d1-4ca6-a55b-6331086a2831)
+![sub pivot 1](https://github.com/user-attachments/assets/50988713-2a6a-4394-8be9-2462a57363e1)
 
-![sub pivot 2](https://github.com/user-attachments/assets/56fbd119-18ae-40ee-ac91-1e6280bf43c7)
+![sub pivot 2](https://github.com/user-attachments/assets/4a87f892-282d-4eb9-9174-967f73924473)
 
-![sub pivot 3](https://github.com/user-attachments/assets/f96fdcb0-deaf-4066-8bba-91106aa1ae76)
+![sub pivot 3](https://github.com/user-attachments/assets/1b4f16fe-c055-4254-8c73-0c1adacdaa77)
 
-![sub pivot 4](https://github.com/user-attachments/assets/cffbd812-bbe9-4cac-b17f-59ed603d7ca1)
+![sub pivot 4](https://github.com/user-attachments/assets/57010565-ba80-4a1a-b6a6-cbc35c431ea3)
 
-![sub pivot 5](https://github.com/user-attachments/assets/0a9e484c-de26-4815-bb48-90f3d6e75686)
+![sub pivot 5](https://github.com/user-attachments/assets/44b65cd4-8321-414c-987a-c9c1d3a46d70)
 
-![sub pivot 6](https://github.com/user-attachments/assets/acdc5652-9a0d-4753-abcc-e4712cbdfa6d)
+![sub pivot 6 1](https://github.com/user-attachments/assets/4b62a563-b877-4f56-bbfe-fd906c4df3a4)
 
-![sub pivot 7](https://github.com/user-attachments/assets/6bebd28d-744f-4682-a502-ff578bdeccc1)
+![sub pivot 6 2](https://github.com/user-attachments/assets/5261d9dd-0e5b-496d-878f-3acb1324d767)
 
-![sub pivot 8](https://github.com/user-attachments/assets/83cb5f39-7e49-421e-9bb9-d95653031307)
+![sub pivot 6](https://github.com/user-attachments/assets/ca96d897-a103-4fd7-b3ca-2b7c39f64b8e)
 
+![sub pivot 7](https://github.com/user-attachments/assets/41487bca-3bf7-450c-b211-e2c3ceb0319b)
 
+![sub pivot 8](https://github.com/user-attachments/assets/4ac4a5fb-0286-4613-ba99-900339d108ce)
 
 
 **SQL QUERIES**
@@ -184,7 +186,7 @@ After a thorough data analysis of Subscription data, here are some recommendatio
 
 - Non of the subscribers in the Eastern region canceled their service, the company might want to find out its strategy in that region, then implementing it in other regions.
 - Likewise, the company could increase its market strategies for Basic subscription type, since it contributed larger percent of the overall Revenue.
-- The company could also identify gaps in product offering. Like for the last quarter of 2023, **Premium** recorded no active subscriber.
+- The company could also identify gaps in product offering. Like for the last quarter of 2023, **Premium** recorded no active subscriber same as **Standard** - this has no subscriber at all for the 2023.
 
 ### Timeline:
 - Data analysis:
