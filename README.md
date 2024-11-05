@@ -176,17 +176,20 @@ FROM
 ~~~
 **Power BI Virtualization**
 
+<img width="484" alt="Customerdata" src="https://github.com/user-attachments/assets/00543ad9-4cd9-4fda-b7ed-8a1d7d234154">
+
+
 ### Recommendations
 After a thorough data analysis of Subscription data, here are some recommendations:
 
-- There were no active subscribers in the Eastern region, the company might want to find out every subscribers sunddenly decided to deactivate their service.
+- Non of the subscribers in the Eastern region canceled their service, the company might want to find out its strategy in that region, then implementing it in other regions.
 - Likewise, the company could increase its market strategies for Basic subscription type, since it contributed larger percent of the overall Revenue.
 - The company could also identify gaps in product offering. Like for the last quarter of 2023, **Premium** recorded no active subscriber.
 
 ### Timeline:
-Data analysis:
-Findings and recommendations:
-Report and presentation preparation:
+- Data analysis:
+- Findings and recommendations:
+- Report and presentation preparation:
 
 
 ### Project Team:
